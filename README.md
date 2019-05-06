@@ -1,2 +1,2 @@
 # dataScienc_path
-The path for a data science 
+The path for data science 
